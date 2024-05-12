@@ -11,7 +11,7 @@
 #include <cstdlib>
 
 // set to false when compling on Linux or Mac
-const bool APP_OS_WINDOWS = false;
+const bool APP_OS_WINDOWS = true;
 
 using namespace std;
 
