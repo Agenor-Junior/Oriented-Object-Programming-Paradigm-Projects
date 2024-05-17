@@ -1,2 +1,12 @@
+
 # OOP-Workshops
-contains all of my workshops of seneca oop course
+
+Seneca OOP244 Workshops
+
+
+## FAQ
+
+#### Will i get caught if i copy this code
+
+Yes.
+
