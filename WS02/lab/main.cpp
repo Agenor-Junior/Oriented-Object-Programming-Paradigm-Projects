@@ -13,8 +13,10 @@
 ***********************************************************************/
 #include "Employee.h"
 using namespace seneca;
-int main() {
-   if (load()) {
+int main()
+{
+   if (load())
+   {
       display();
    }
    deallocateMemory();
