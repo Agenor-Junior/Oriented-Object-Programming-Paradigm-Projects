@@ -1,0 +1,29 @@
+***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 7
+// Version 1.0
+// Description
+// professor's tester program
+//
+// Revision History
+// -----------------------------------------------------------
+// Name            Date            Reason
+//AGENOR JUNIOR	   JUL 10,2024     
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+REFLECTION
+
+For the development of the project, it was essential to understand the concepts of object orientation, including the definition of classes, inheritance, and operator overloading.
+
+The MotorVehicle class was defined to store basic information about a vehicle with an engine, such as license plate number, current address, year of manufacture. It encapsulates data using private members and provides public methods for accessing the data, demonstrating the principle of encapsulation.
+
+The Truck class inherits from MotorVehicle, adding truck-specific features such as payload capacity and current payload. This exemplifies the concept of inheritance, where a class derives inherited properties and methods from a base class, allowing code reuse and functionality extension.
+
+The custom constructors of both classes are specific to initializing objects with specific data. The MotorVehicle class constructor initializes the plate number and year of manufacture, and the Truck class constructor also initializes the load capacity and sets the initial load to zero.
+
+The moveTo, addCargo and unloadCargo methods are examples of modifiers that modify the state of the object. The moveTo method changes the vehicle's address, while addCargo and unloadCargo manage the truck's load, ensuring that the load does not exceed capacity.
+
+Overloading the insertion and protection operators (<< and >>) was an important technique to facilitate data input and output. These operators are overloaded to call the write and read methods of their classes, allowing an interface for reading and writing objects.
+
+Understanding these concepts helped me to successfully complete the workshop and have a more solid foundation for the next Milestones.

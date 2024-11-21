@@ -1,0 +1,22 @@
+
+Workshop 8
+Name: Agenor Dionizio da Silva Junior
+ID:138121223
+
+
+Reflection
+
+
+In this workshop, I was able to deepen my knowledge of OOP concepts such as:
+
+Inheritance and Polymorphism
+ You can create a structure of classes where Shape is an abstract base class and LblShape, Line and Rectangle are derived classes. The use of pure virtual methods in the Shape class made it possible for derived classes to implement the draw and getSpecs methods.
+
+Operator Overload
+I used overloading of the << and >> operators so that objects of the Line and Rectangle classes were read and written directly from input and output streams. This simplified the code, making it more intuitive and cleaner.
+
+Drawing of rectangles
+In the draw method, I was able to use flow handlers, such as std::left and std::setw, to align texts and ensure that shapes are drawn correctly with the expected formatting.
+
+Challenges
+One challenge was using the concept of Polymorphism, since it is the most recently trained concept, and I don't have as much practice as the others. Also manage memory allocation and deallocation for strings in the LblShape class. It was a point of attention to ensure that memory is correctly freed to avoid leaks.

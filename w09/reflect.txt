@@ -1,0 +1,22 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 9
+// Version 1.0
+// Description
+// tester program
+//
+// Revision History
+// -----------------------------------------------------------
+// Name            Date            Reason
+//Agenor Junior    2024-07-25      Workshop9
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+
+In this workshop, I learned the importance of the rule of three in memory management in C++. The rule of three, which includes the destructor, the copy constructor, and the assignment operator, is important for preventing memory leaks and ensuring that dynamically allocated resources are properly freed. Implementing the Text class and the derived HtmlText class helped me better understand these concepts.
+
+The Text class read text files and stored the content dynamically. In HtmlText, I learned how to convert the content to a simple HTML format, which involved replacing specific characters and handling multiple spaces using boolean control logic.
+
+Additionally, working with the overloading of the insertion operator for the Text class improved my understanding of how operators can be adapted for custom classes, and how these operators can be used to improve the usability of classes in different contexts.
+
+One challenge I faced was ensuring that memory was managed correctly when copying or assigning objects. Deep copies were necessary to avoid dangling pointer issues. In summary, this workshop was important to improve my understanding of the rule of three and how to manage dynamic resources in C++.
