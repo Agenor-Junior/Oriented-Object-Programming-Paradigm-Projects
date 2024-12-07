@@ -66,3 +66,10 @@ The system is designed with OOP principles such as **inheritance**, **encapsulat
    ```bash
    git clone <repository_url>
    cd <repository_folder>
+
+   ---
+
+## Test Cases
+
+A comprehensive set of test cases has been documented to validate the functionalities of the system.
+You can find the test cases [here](TEST_CASES.md).
