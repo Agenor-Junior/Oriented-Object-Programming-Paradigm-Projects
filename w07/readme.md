@@ -53,7 +53,7 @@ The system is designed with OOP principles such as **inheritance**, **encapsulat
 
 **Diagrams:**
 ### Class Diagram
-![Class Diagram](w07/Class diagram.svg)
+![Class Diagram](Class_diagram.svg)
 
 ### Sequence Diagram
 ![Sequence Diagram](Sequence_diagram.svg)
